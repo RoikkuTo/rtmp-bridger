@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./src/img/screenshot-bridger.jpg" style="box-shadow: 0 5px 15px #00000044" alt="App Logo">
+	<img src="./docs/assets/screenshot-bridger.jpg" style="box-shadow: 0 5px 15px #00000044" alt="App Logo">
 </div>
 
 # RTMP Bridger
@@ -25,3 +25,11 @@ Of course RTMP Bridger is free to use and docs are available in the [_docs_](htt
 ## Issues
 
 If you encounter any issues or find something that could be improve, you can create [Issues](https://github.com/RoikkuTo/rtmp-bridger/issues) on this repository without any scheme or anything, just make it readable, in english or french.
+
+## Special Thanks
+
+A special thank to Dashi and Trinity, two streamers which have been using RTMP Bridger for more than a year now and without whom this app would never exists, thank you guys !! Go check their content, good stuff.
+
+<div align="center">
+	<img src="./docs/assets/friends.png" style="margin-top: 30px" alt="friends">
+</div>
