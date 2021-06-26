@@ -83,7 +83,7 @@ So first of all we need to :
 Once the installation complete, launch Certbot in administrator and copy/paste the next command :
 
 ```shell
-certbot certonly --standalone -n --agree-tos -d[DOMAIN] -m [EMAIL] & icacls C:\Certbot\archive\* /grant *S-1-1-0:(OI)(CI)RX & icacls C:\Certbot\live\* /grant *S-1-1-0:(OI)(CI)RX
+certbot certonly --standalone -n --agree-tos -d [DOMAIN] -m [EMAIL] & icacls C:\Certbot\archive\* /grant *S-1-1-0:(OI)(CI)RX & icacls C:\Certbot\live\* /grant *S-1-1-0:(OI)(CI)RX
 ```
 
 Replace `[DOMAIN]` by the domain name you would like RTMP Bridger to use and replace `[EMAIL]` by your email address, you will be warned when your certificate get to his expiration date.
