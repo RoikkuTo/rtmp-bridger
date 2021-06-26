@@ -1,6 +1,6 @@
 # Docs
 
-DISCLAIMER : This documentation has been made for guide better guide people in the installaition process of RTMP Bridger.
+DISCLAIMER : This documentation has been made to better guide people in the installaition process of RTMP Bridger.
 
 Also I ([Loïc\_](https://github.com/RoikkuTo)) can personnnaly install Bridger on your system, all terms right [here]().
 
