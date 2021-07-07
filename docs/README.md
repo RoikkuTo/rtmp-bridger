@@ -11,3 +11,4 @@ Also I ([Loïc\_](https://github.com/RoikkuTo)) can personnnaly install Bridger 
     -   [Open my ports](./Network.md#open-my-ports)
     -   [Create a No-IP Domain Name](./Network.md#create-a-no-ip-domain-name)
     -   [Generate the SSL/TLS Certificate](./Network.md#generate-the-ssltls-certificate)
+-   [OBS WebSocket Configuration](OBSWebSocket.md)
