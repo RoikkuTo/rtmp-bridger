@@ -1,20 +1,31 @@
 <div align="center">
-	<img src="./docs/assets/screenshot-bridger.jpg" style="box-shadow: 0 5px 15px #00000044" alt="App Logo">
+	<img src="./docs/assets/logo-app.png" alt="App Logo">
+	<h1>RTMP Bridger</h1>
+	<p>A free Windows desktop app that embarcs an RTMP server for IRL streaming.</p>
+	<img alt="Platform" src="https://img.shields.io/badge/platform-Windows-lightgrey">
+	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/RoikkuTo/rtmp-bridger">
+	<img alt="GitHub" src="https://img.shields.io/github/license/RoikkuTo/rtmp-bridger">
+	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/RoikkuTo/rtmp-bridger/total">
 </div>
+<br>
 
-# RTMP Bridger
-
-A Windows desktop app that embarcs an rtmp server for IRL streaming, it acts like... well, a bridge between you and your OBS at home.
+RTMP Bridger acts like... well, a bridge between you and your OBS at home.
 
 From wherever you are on the world, share your adventerures on Twitch, Youtube, Facebook or whatever plateform you want, by sending a video stream via RTMP directly to Bridger. Retrieve the images inside OBS and organize your scenes, templates and alerts. When you are ready just go live !
 
 ## Features
 
 -   An abstract configuration
--   A graphic user interface accessible from your **desktop**, your **phone** and remotly on the **web**
+-   A graphical user interface accessible from your **desktop**, your **phone** and remotly on the **web**
 -   An OBS remote controler to e.g. change the current scene
 -   An Event system to handle 4G/5G drops by e.g. automatically switch to a BRB scene
--   A chatbot (Twitch) first to warn you and your viewers in chat of maybe a 4G/5G drops or a scene switch, and second to control and manage all that jazz via several commands while reading the chat
+-   A chatbot (Twitch) first to warn you and your viewers in chat of maybe a 4G/5G drop or a scene switch, and second to control and manage all that jazz via several commands while reading the chat
+
+<br>
+<div align="center">
+	<img src="./docs/assets/gif-bridger.gif" width="325" style="box-shadow: 0 5px 15px #00000044" alt="App Logo">
+</div>
+<br>
 
 ## Installation
 
