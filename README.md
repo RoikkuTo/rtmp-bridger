@@ -15,7 +15,7 @@ From wherever you are on the world, share your adventerures on Twitch, Youtube, 
 
 ## Features
 
--   **Multi-Camémra** compatible, as much as your PC can handle which is probably **A LOT**
+-   **Multi-Camera** compatible, as much as your PC can handle which is probably **A LOT**
 -   An abstract configuration
 -   A graphical user interface accessible from your **desktop**, your **phone** and remotly on the **web**
 -   An OBS remote controler to e.g. change the current scene
