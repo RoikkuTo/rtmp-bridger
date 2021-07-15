@@ -30,7 +30,7 @@ From wherever you are on the world, share your adventerures on Twitch, Youtube, 
 
 ## Prerequires
 
--   Open Broadcast Studio (OBS) with the [obs-websocket](https://github.com/Palakis/obs-websocket) installed
+-   Open Broadcast Software Studio (OBS Studio) with the [obs-websocket](https://github.com/Palakis/obs-websocket) installed
 -   The ports 80 and three other [ports open](./docs/Network.md#open-my-ports)
 -   A [certified domain name](./docs/Network.md#create-a-no-ip-domain-name)
 
