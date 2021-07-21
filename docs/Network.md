@@ -35,7 +35,7 @@ Next look for a Port Forwarding section, click and see if there is an array like
 
 Found it ? Then try to add a new row, well 4 new rows. We will open the port 80 and three random ports, like 3300, 3301 and 3302, as you wish. The ports must redirect the traffic to your computer, either enter the name of your computer if it is possible or in the IP column enter your local IP, see [Get my Local IP](#get-my-local-ip)
 
-> **Note :** Excepted the port 80, the other ports must be set between the numbers 1024 and 49151.
+> **Note :** Excepted the port 80, the other ports must be set between the numbers 1024 and 49151. Also, **do not** choose port 3299 which is used for internal functions.
 
 At the end it must be something like :
 

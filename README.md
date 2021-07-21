@@ -24,7 +24,7 @@ From wherever you are on the world, share your adventerures on Twitch, Youtube, 
 
 <br>
 <div align="center">
-	<img src="./docs/assets/gif-bridger.gif" width="325" style="box-shadow: 0 5px 15px #00000044" alt="App Logo">
+	<img src="./docs/assets/bridger-pres.gif" width="325" alt="App Logo">
 </div>
 <br>
 
@@ -38,7 +38,7 @@ From wherever you are on the world, share your adventerures on Twitch, Youtube, 
 
 Go to the [Release](https://github.com/RoikkuTo/rtmp-bridger/releases) section of this repository and download the RTMP-Bridger-Setup.exe (latest is recommended)
 
-Of course RTMP Bridger is free to use and docs are available in the [_docs_](https://github.com/RoikkuTo/rtmp-bridger/tree/main/docs) folder in english and very soon in french.
+Of course RTMP Bridger is free to use and docs are available in the [_docs_](https://github.com/RoikkuTo/rtmp-bridger/tree/main/docs) folder in english and french.
 
 ## Issues
 
