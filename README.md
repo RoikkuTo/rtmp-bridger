@@ -38,7 +38,7 @@ From wherever you are on the world, share your adventerures on Twitch, Youtube, 
 
 Go to the [Release](https://github.com/RoikkuTo/rtmp-bridger/releases) section of this repository and download the RTMP-Bridger-Setup.exe (latest is recommended)
 
-Of course RTMP Bridger is free to use and docs are available in the [_docs_](https://github.com/RoikkuTo/rtmp-bridger/tree/main/docs) folder in english and very soon in french.
+Of course RTMP Bridger is free to use and [_documentations_](https://github.com/RoikkuTo/rtmp-bridger/blob/main/docs/README.md) are available in the [_**DOCS**_](https://github.com/RoikkuTo/rtmp-bridger/tree/main/docs) folder in english and very soon in french.
 
 ## Issues
 

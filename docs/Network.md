@@ -48,7 +48,7 @@ At the end it must be something like :
 | TCP/UDP  |    all    | your local ip  | 3300 |   RTMP Bridger Stream   |
 | TCP/UDP  |    all    | your local ip  | 3301 | RTMP Bridger Dashboard  |
 | TCP/UDP  |    all    | your local ip  | 3302 | RTMP Bridger OBS Remote |
-|   ...    |           |      ...       | ...  |           ...           |
+|   ...    |    ...    |      ...       | ...  |           ...           |
 
 And thats it, some router require to be restared it depends.
 
